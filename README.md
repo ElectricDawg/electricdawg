@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Dar (she/her), a student of statistics at the University of New Mexico. I code for fun and to develop my skills. If you want to reach me, my e-mail is darpoling248@outlook.com. Tell me Ember sent you. 
+
 <!--
 **ElectricDawg/electricdawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
